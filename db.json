@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "title": "Produto 1",
+      "category": "Categoria 1",
+      "price": 19.99,
+      "id": "be488c80-dcee-4570-aed6-e8fcac75b86b"
+    },
+    {
+      "id": "50b2e372-66ba-4e99-a1a9-a2af6bb92b20",
+      "title": "Produto 2",
+      "category": "Categoria 2",
+      "price": 29.99
+    },
+    {
+      "title": "Prod 3",
+      "category": "Cat 3",
+      "price": 21,
+      "id": "d460d6ff-af81-4bb2-be81-7397ef988b77"
+    }
+  ]
+}
